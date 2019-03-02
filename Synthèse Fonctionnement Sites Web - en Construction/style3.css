@@ -1,0 +1,64 @@
+body{
+font-family: Trebuchet MS, Courier New, Georgia, Verdana, New Roman, Impact, Arial Black, Arial, Comic Sans MS;
+}
+
+.Centrer1{
+text-align: center;
+border: 1em yellow dotted;
+border-radius: 6em;
+max-width: 50em;
+margin: auto;
+background-color: grey;}
+
+.Gauche1{
+text-align: left;
+border: 0.2em black solid;
+max-width: 50em;
+margin: 0em;
+padding: 0.5em;
+background-color: green;}
+
+h1{
+text-align: center;
+text-decoration: underline;
+background-color: yellow;}
+
+body{
+background-image: url("imagefondlignescode.png");}
+
+.Centrer2{
+color: yellow;
+text-align: center;
+border: 0.2em black solid;
+border-radius: 2em;
+max-width: 80em;
+margin: auto;
+background-color: red;}
+
+.Gauche2{
+text-align: left;
+border: 0.2em black double;
+max-width: 50em;
+margin: 0em;
+padding: 0.5em;
+background-color: yellow;
+text-shadow: 1em 0.5em 1em black;
+}
+
+.Centrer3{
+text-align: center;
+border: 1em black double;
+border-radius: 6em;
+max-width: 50em;
+margin: auto;
+background-color: white;}
+
+ul{
+list-style-type: none; /* Cette propriété est utilisée pour supprimer les points des listes à puces. */}
+
+
+/* Pour garder em mémoire cette propriété :
+video{max-width: 100%;}
+*/
+
+
